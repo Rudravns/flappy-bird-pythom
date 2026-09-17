@@ -33,5 +33,3 @@ class bird:
             self.vel.y += gravity * dt
 
         self.pos += self.vel * dt
-
-    
